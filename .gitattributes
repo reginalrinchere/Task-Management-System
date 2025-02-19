@@ -1,1 +1,9 @@
-*.html linguist-detectable=false
+# Explicitly detect LWC related files
+*.html linguist-detectable=true
+*.js linguist-detectable=true
+*.xml linguist-detectable=true
+
+# Ignore other files to focus on LWC
+*.css linguist-detectable=false
+*.md linguist-detectable=false
+*.json linguist-detectable=false
