@@ -1,11 +1,17 @@
-# Explicitly detect only JavaScript and HTML as part of LWC
-*.html linguist-detectable=false
-*.js linguist-detectable=false
-*.LWC linguist-detectable=true
+# Detect only LWC-related files (JavaScript and HTML)
+*.html linguist-detectable=true
+*.js linguist-detectable=true
 
-
-# Ignore XML, CSS, Markdown, JSON, and other files for language stats
-*.xml linguist-detectable=false
+# Ignore all other file types to focus solely on LWC
 *.css linguist-detectable=false
-*.md linguist-detectable=false
+*.xml linguist-detectable=false
 *.json linguist-detectable=false
+*.md linguist-detectable=false
+*.yaml linguist-detectable=false
+*.yml linguist-detectable=false
+*.txt linguist-detectable=false
+*.java linguist-detectable=false
+*.py linguist-detectable=false
+*.go linguist-detectable=false
+*.ts linguist-detectable=false
+
