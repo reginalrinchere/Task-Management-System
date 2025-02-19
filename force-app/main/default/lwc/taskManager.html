@@ -1,0 +1,6 @@
+<template>
+    <lightning-card title="Task Manager">
+        <c-task-filter onfilterchange={handleFilterChange}></c-task-filter>
+        <c-task-list filter={selectedFilter}></c-task-list>
+    </lightning-card>
+</template>
