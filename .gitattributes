@@ -2,6 +2,8 @@
 *.html linguist-detectable=true
 *.js linguist-detectable=true
 *.xml linguist-detectable=true
+*.LWC linguist-detectable=true
+
 
 # Ignore other files to focus on LWC
 *.css linguist-detectable=false
