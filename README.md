@@ -1,4 +1,4 @@
-CloudStorm Solutions, a fast-growing tech company, is seeking to improve its task management system to enhance team productivity and organization. As their Salesforce developer, you have been tasked with creating a robust Task Management System using Lightning Web Components (LWC). This system will consist of two primary components: a "taskFilter" component for filtering tasks and a "taskList" component for displaying and managing task details. These components will collaborate seamlessly to streamline task management for CloudStorm Solutions.
+Cloud Storm Solutions, a fast-growing tech company, is seeking to improve its task management system to enhance team productivity and organization. As their Salesforce developer, you have been tasked with creating a robust Task Management System using Lightning Web Components (LWC). This system will consist of two primary components: a "taskFilter" component for filtering tasks and a "taskList" component for displaying and managing task details. These components will collaborate seamlessly to streamline task management for CloudStorm Solutions.
 
 
 
